@@ -1,0 +1,2 @@
+# eurusd
+timeseries
